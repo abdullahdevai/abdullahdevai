@@ -17,9 +17,9 @@
 💫 Hi! I’m **Abdullah**, a passionate **Full-Stack Developer** with a love for building dynamic, scalable web applications and exploring AI-driven solutions.  
 I enjoy crafting clean code, learning new technologies, and collaborating on impactful projects.
 
-- 🌍 Based in: **[Your Country / City]**  
-- ⚙️ Specializing in: **Web Development, APIs, AI Integration**  
-- 🧩 Currently exploring: **Next.js & Machine Learning**  
+- 🌍 Based in: **[Bangladesh / Dhaka]**  
+- ⚙️ Specializing in: **Web Development, APIs**  
+- 🧩 Currently exploring: **Laravel and Next.js**  
 - 🎯 Goal: To create meaningful digital experiences that inspire innovation.
 
 ---
@@ -82,4 +82,4 @@ I enjoy crafting clean code, learning new technologies, and collaborating on imp
   💡 *“Building ideas into reality — one line of code at a time.”*
 </p>
 
-<!-- Created with ❤️ by Abdullah | Inspired by GPRM -->
+<!-- Created with ❤️ by Abdullah -->
