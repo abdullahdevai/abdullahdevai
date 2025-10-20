@@ -11,18 +11,6 @@
   </a>
 </p>
 
----
-
-### 🧭 About Me  
-💫 Hi! I’m **Abdullah**, a passionate **Full-Stack Developer** with a love for building dynamic, scalable web applications and exploring AI-driven solutions.  
-I enjoy crafting clean code, learning new technologies, and collaborating on impactful projects.
-
-- 🌍 Based in: **[Bangladesh / Dhaka]**  
-- ⚙️ Specializing in: **Web Development, APIs**  
-- 🧩 Currently exploring: **Laravel and Next.js**  
-- 🎯 Goal: To create meaningful digital experiences that inspire innovation.
-
----
 
 ### 🛠️ Tech Stack  
 
