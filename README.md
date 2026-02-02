@@ -1,73 +1,119 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Abdullah</span></h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🧠 AI Learner</h3>
+Hi. I'm Abdullah.
+<br/>
 
-<p align="center">
-  <a href="https://facebook.com/abdullahdevai">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abdullahai">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=abdullahdevai&&style=flat-square" align="start" />
 
+[![committers.top badge](https://user-badge.committers.top/worldwide/abdullahdevai.svg)](https://user-badge.committers.top/worldwide/abdullahdevai)
 
-### 🛠️ Tech Stack  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 
-#### 🧩 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+##
 
-#### ⚙️ Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Backend Developer 2+ years  
+Frontend Developer 3+ years  
+Full Stack Developer 2+ years  
 
-#### 🗄️ Database & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## My Skill Set  
+<table>
+<tr>
+<td valign="top" width="33%">
 
----
+### Frontend  
+<div align="center">  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
+</a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
+</a>  
+<a href="https://getbootstrap.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
+</a>  
+<a href="https://www.javascript.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
+</a>  
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+</a>  
+<a href="https://reactjs.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
+</a>  
+<a href="https://nextjs.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
+</a>  
+<a href="https://vuejs.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" />
+</a>  
+</div>
 
-### 📊 GitHub Analytics  
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahdevai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdevai&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
+<td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdevai&layout=compact&theme=tokyonight&hide_border=true" height="140px"/>
-</p>
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
+</a>  
+<a href="https://www.php.net/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" />
+</a>  
+<a href="https://laravel.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" />
+</a>  
+<a href="https://www.python.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
+</a>  
+<a href="https://jquery.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="50" />
+</a>  
+</div>
 
----
+</td>
 
-### 🌐 Visitor Counter  
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abdullahdevai&label=Profile%20Views&color=0&icon=5&pretty=true" />
-  </a>
-</p>
+<td valign="top" width="33%">
 
----
+### DevOps & Database  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+</a>  
+<a href="https://www.mongodb.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />
+</a>  
+<a href="https://git-scm.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+</a>  
+<a href="https://github.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" />
+</a>  
+<a href="https://www.linux.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
+</a>  
+<a href="https://www.nginx.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="50" />
+</a>  
+</div>
 
-### 🧠 Quote of the Day  
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-<p align="center">
-  💡 *“Building ideas into reality — one line of code at a time.”*
-</p>
-
-<!-- Created with ❤️ by Abdullah -->
+## Connect with me  
+<div align="center">
+<a href="https://github.com/abdullahdevai" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://facebook.com/abdullahdevai" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/abdullahai" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
