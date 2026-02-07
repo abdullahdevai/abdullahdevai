@@ -6,9 +6,6 @@
 
 ##
 
-Backend Developer 2+ years  
-Frontend Developer 3+ years  
-Full Stack Developer 2+ years  
 
 ## My Skill Set  
 <table>
