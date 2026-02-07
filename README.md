@@ -1,10 +1,3 @@
-Hi. I'm Abdullah.
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdullahdevai&&style=flat-square" align="start" />
-
-[![committers.top badge](https://user-badge.committers.top/worldwide/abdullahdevai.svg)](https://user-badge.committers.top/worldwide/abdullahdevai)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
