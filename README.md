@@ -79,8 +79,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
 </a>  
 <a href="https://github.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" />
-</a>  
+  <img
+    src="https://cdn.simpleicons.org/github/181717"
+    alt="GitHub"
+    width="50"
+    height="50"
+    style="margin: 10px;"
+  />
+</a> 
 <a href="https://www.linux.org/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
 </a>  
